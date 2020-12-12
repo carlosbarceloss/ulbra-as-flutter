@@ -1,4 +1,4 @@
-# as_api
+# as_flutter
 
 A new Flutter project.
 
